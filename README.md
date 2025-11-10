@@ -189,4 +189,4 @@ MIT License - Educational project for research internship application
 
 ## Author
 
-Samrudh Shenoy
+Samrudh J
